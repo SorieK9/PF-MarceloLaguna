@@ -139,6 +139,14 @@ textarea {
 
 /*fin de formulario de contacto*/
 /* noticias inicio*/
+.notis {
+  text-align: center;
+  color: #333;
+  font-size: 36px;
+  margin: 20px 0;
+  text-decoration: underline;
+}
+
 .bodddy {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -175,7 +183,7 @@ article img {
 
 .video-container {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 iframe {
